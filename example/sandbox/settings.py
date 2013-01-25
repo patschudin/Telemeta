@@ -38,6 +38,7 @@ TIME_ZONE = 'Europe/Paris'
 #LANGUAGE_CODE = 'fr_FR'
 LANGUAGES = [ ('fr', 'French'),
               ('en', 'English'),
+              ('de', 'German'),
 ]
 
 SITE_ID = 1
